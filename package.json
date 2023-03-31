@@ -1,0 +1,31 @@
+{
+  "name": "called-it",
+  "version": "1.0.0",
+  "description": "A simple react hook package to use the Intersection API",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c",
+    "start": "rollup -c -w"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "author": "John Retsas",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.0.31",
+    "@types/react-dom": "^18.0.11",
+    "babel-core": "^6.26.3",
+    "babel-runtime": "^6.26.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "rollup": "^3.20.2",
+    "rollup-plugin-sass": "^1.12.19",
+    "rollup-plugin-typescript2": "^0.34.1",
+    "typescript": "^5.0.3"
+  },
+  "files": ["dist"]
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/useElementOnScreen.tsx"],"sourcesContent":["export const useElementOnScreen = () => {\n    console.log(\"useElementOnScreen\");\n    return\n}"],"names":[],"mappings":";;;;;;;;;;;;;AAAa,IAAA,kBAAkB,GAAG,YAAA;AAC9B,IAAA,OAAO,CAAC,GAAG,CAAC,oBAAoB,CAAC,CAAC;IAClC,OAAM;AACV;;;;"}
